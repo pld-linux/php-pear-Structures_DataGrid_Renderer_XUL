@@ -5,7 +5,7 @@
 %define		_pearname	Structures_DataGrid_Renderer_XUL
 
 Summary:	%{_pearname} - Renderer driver that generates the XML string for a XUL listbox
-Summary(pl.UTF-8):   %{_pearname} - sterownik renderera generujący ciąg znaków XML dla listbox XUL-a
+Summary(pl.UTF-8):	%{_pearname} - sterownik renderera generujący ciąg znaków XML dla listbox XUL-a
 Name:		php-pear-%{_pearname}
 Version:	0.1.2
 Release:	1
