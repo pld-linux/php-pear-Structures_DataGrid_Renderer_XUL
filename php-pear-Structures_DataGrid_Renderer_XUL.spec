@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.php
 %define		_status		beta
 %define		_pearname	Structures_DataGrid_Renderer_XUL
 Summary:	%{_pearname} - Renderer driver that generates the XML string for a XUL listbox
